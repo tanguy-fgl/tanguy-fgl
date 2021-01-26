@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://dev.fury-craft.tk/">Website</a> •
-  <a href="https://twitter.com/ytfurycraft">Twitter</a> •
+  <a href="https://twitter.com/furycraftyt">Twitter</a> •
   <a href="https://instagram.com/furycraftyt">Instagram</a>
 </p>
 
