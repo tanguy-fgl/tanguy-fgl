@@ -6,4 +6,10 @@
   <a href="https://instagram.com/furycraftyt">Instagram</a>
 </p>
 
+<h2>Languages</h2>
+
+<p>PHP, HTML, CSS, JavaScript, NodeJS, Python</p>
+
+<h2>Statistics</h2>
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=furycraft.furycraft)
