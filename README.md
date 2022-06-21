@@ -18,6 +18,9 @@ Hello, I am a french developper. I prefer developping websites
 <h2>Make a donation</h2>
 
 <a href="https://paypal.me/furycraft" target="_blank"><img alt="Donate with PayPal to Fury_Craft" src="https://viatesting.files.wordpress.com/2020/03/paypal-donate-button.png" width="125"/><a>
+  
+  
+![Fury_Craft](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
  <div>
  
