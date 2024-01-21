@@ -6,8 +6,7 @@ Hello, I am a french developper. I prefer developping websites
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/furycraftyt/">![Instagram](https://img.shields.io/badge/Fury_Craft-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/furycraftyt">![Twitter](https://img.shields.io/badge/Fury_Craft-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.gg/cau6Ka9">![DiscordServer](https://img.shields.io/discord/457201777268359168?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/Fury_Craft%239831-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<a href="https://twitter.com/furycraft_">![Twitter](https://img.shields.io/badge/Fury_Craft-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 -------------------
 
@@ -17,7 +16,7 @@ Hello, I am a french developper. I prefer developping websites
 -------------------
 <h2>Make a donation</h2>
 
-<a href="https://paypal.me/furycraft" target="_blank"><img alt="Donate with PayPal to Fury_Craft" src="https://viatesting.files.wordpress.com/2020/03/paypal-donate-button.png" width="125"/><a>
+<a href="https://paypal.me/tanguyfgl" target="_blank"><img alt="Donate with PayPal to Fury_Craft" src="https://viatesting.files.wordpress.com/2020/03/paypal-donate-button.png" width="125"/><a>
   
   
 ![Fury_Craft](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
