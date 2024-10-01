@@ -4,21 +4,18 @@
 ![GitHub stars](https://img.shields.io/github/stars/tanguy-fgl?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=tanguy-fgl&color=blueviolet)
 
-Passionate about **web development** and **cybersecurity**, I use my skills to create secure and high-performance applications. I am always looking for new challenges and learning opportunities.
+Passionate about **web development** and **cybersecurity**, I use my skills to create secure and high-performance applications. I am always looking for new challenges and learning opportunities
+
+## ☎ Connect with me:
+<p align="left">
+<a href="https://twitter.com/nammite_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nammite_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanguy-fgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanguy-fgl" height="30" width="40" /></a>
+<a href="https://instagram.com/tanguy_fgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanguy_fgl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nammite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nammite" height="30" width="40" /></a>
+</p>
 
 ## 🛠️ Technologies and Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=333)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=333)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 ## 🔒 Cybersecurity
 
@@ -33,13 +30,6 @@ Passionate about **web development** and **cybersecurity**, I use my skills to c
   <img src="https://github-readme-stats.vercel.app/api?username=tanguy-fgl&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="182">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguy-fgl&layout=compact&theme=radical" alt="Top Languages" width="400" height="175">
 </p>
-
-
-## 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tanguy-frageul)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/nammite_)
-[![Mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:tanguyfrageul@gmail.com)
 
 ## 🎓 Education and Certifications
 
