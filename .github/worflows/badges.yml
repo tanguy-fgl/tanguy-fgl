@@ -1,0 +1,19 @@
+name: Update badges
+
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: tanguy-fgl/tanguy-fgl # optional, By default, it will automatically use the repository who's executing the workflow.
+          COMMIT_MESSAGE: "Badges updated" # optional
+          CREDLY_USER: tanguy-frageul # optional, but default will use the same from github
+          CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
