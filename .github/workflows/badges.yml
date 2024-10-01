@@ -12,8 +12,8 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-      - uses: actions/checkout@v3
-      - uses: pemtajo/badge-readme@main
+        uses: actions/checkout@v3
+        uses: pemtajo/badge-readme@main
         with:
           COMMIT_MESSAGE: "Badges updated" # optional
           CREDLY_USER: tanguy-frageul # optional, but default will use the same from github
