@@ -29,9 +29,11 @@ Passionate about **web development** and **cybersecurity**, I use my skills to c
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanguy-fgl&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanguy-fgl&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="182">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguy-fgl&layout=compact&theme=radical" alt="Top Languages" width="400" height="175">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanguy-fgl&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 
