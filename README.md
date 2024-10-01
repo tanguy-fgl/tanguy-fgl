@@ -42,4 +42,5 @@ Passionate about **web development** and **cybersecurity**, I use my skills to c
 ## 🎓 Education and Certifications
 
 <!--START_SECTION:badges-->
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/84eb4a08-9f7d-4dbc-953b-39ec4746fca9 "Introduction to Cybersecurity")
 <!--END_SECTION:badges-->
