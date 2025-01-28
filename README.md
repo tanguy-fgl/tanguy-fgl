@@ -24,7 +24,7 @@ Passionate about **web development** and **cybersecurity**, I use my skills to c
 ### 💻 Operting Systems
 [![Applications](https://skillicons.dev/icons?i=windows,kali,ubuntu)](./)
 ### 🪧 Development environment
-[![Applications](https://skillicons.dev/icons?i=vscode,git,npm,pnpm,yarn)](./)
+[![Applications](https://skillicons.dev/icons?i=vscode,github,git,npm,pnpm,yarn)](./)
 
 ## 📈 GitHub Stats
 
