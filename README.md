@@ -34,7 +34,7 @@ Passionate about **web development** and **cybersecurity**, I use my skills to c
   <img src="https://raw.githubusercontent.com/tanguy-fgl/tanguy-fgl/output/snake.svg" alt="Snake animation" />
 </p>
 
-## 🎓 Education and Certifications
+## 🎓 Certifications
 
 <!--START_SECTION:badges-->
 [![English for IT 2](https://images.credly.com/size/110x110/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png)](http://www.credly.com/badges/25242ed6-c138-475c-8168-30f817de4905 "English for IT 2")
