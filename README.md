@@ -37,6 +37,7 @@ Passionate about **web development** and **cybersecurity**, I use my skills to c
 ## 🎓 Education and Certifications
 
 <!--START_SECTION:badges-->
+[![English for IT 2](https://images.credly.com/size/110x110/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png)](http://www.credly.com/badges/25242ed6-c138-475c-8168-30f817de4905 "English for IT 2")
 [![English for IT 1](https://images.credly.com/size/110x110/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png)](http://www.credly.com/badges/5fbd8a77-3044-448e-84cd-39e58485c39c "English for IT 1")
 [![Computer Hardware Basics](https://images.credly.com/size/110x110/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png)](http://www.credly.com/badges/21851944-3385-4a80-a2e4-61ac5f01e3fe "Computer Hardware Basics")
 [![Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/c78c8d55-b833-4508-8f5b-9859797e8da0 "Networking Basics")
