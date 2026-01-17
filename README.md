@@ -13,7 +13,7 @@ Passionate about **web development** and **cybersecurity**, I use my skills to c
 [![Web](https://skillicons.dev/icons?i=php,mysql,redis,html,css,js,bootstrap,sass)](./)
 ### 🖨️ Applications
 [![Applications](https://skillicons.dev/icons?i=cpp,nodejs,python)](./)
-### 💻 Operting Systems
+### 💻 Operating Systems
 [![Applications](https://skillicons.dev/icons?i=windows,kali,ubuntu)](./)
 ### 🪧 Development environment
 [![Applications](https://skillicons.dev/icons?i=vscode,github,git,npm,pnpm,yarn)](./)
