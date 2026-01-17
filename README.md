@@ -8,14 +8,6 @@
 
 Passionate about **web development** and **cybersecurity**, I use my skills to create secure and high-performance applications. I am always looking for new challenges and learning opportunities
 
-## ☎ Connect with me:
-<p align="left">
-<a href="https://twitter.com/nammite_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nammite_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanguy-fgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanguy-fgl" height="30" width="40" /></a>
-<a href="https://instagram.com/tanguy_fgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanguy_fgl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nammite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nammite" height="30" width="40" /></a>
-</p>
-
 ## 🛠️ Technologies and Tools
 ### 🌐 Web
 [![Web](https://skillicons.dev/icons?i=php,mysql,redis,html,css,js,bootstrap,sass)](./)
